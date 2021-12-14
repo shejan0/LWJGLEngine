@@ -1,4 +1,4 @@
-#LWJGL Engine (deprecated)
+# LWJGL Engine (deprecated)
 
 This is a LWJGL based engine that I started working on a old laptop but never finished, I might start working on it again at some point
 The IDE used was Eclipse 2018-09, as it was the last one to support 32-bit Windows
