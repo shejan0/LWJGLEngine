@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-assimp-javadoc.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-assimp-natives-windows-x86.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-assimp-sources.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-assimp.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-glfw-javadoc.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-glfw-natives-windows-x86.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-glfw-sources.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-glfw.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-javadoc.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-natives-windows-x86.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-openal-javadoc.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-openal-natives-windows-x86.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-openal-sources.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-openal.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-opengl-javadoc.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-opengl-natives-windows-x86.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-opengl-sources.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-opengl.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-sources.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-stb-javadoc.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-stb-natives-windows-x86.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-stb-sources.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl-stb.jar"/>
+	<classpathentry kind="lib" path="LWJGLlibrary/lwjgl.jar"/>
+	<classpathentry kind="lib" path="JOMLibrary/joml-1.10.1-sources.jar"/>
+	<classpathentry kind="lib" path="JOMLibrary/joml-1.10.1.jar"/>
+	<classpathentry kind="lib" path="JOMLibrary/joml-jdk8-1.10.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
